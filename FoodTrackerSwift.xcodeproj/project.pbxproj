@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9290D71720EA67A200996BFB /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9290D71620EA67A200996BFB /* Meal.swift */; };
 		92CBAF9620EA1E9600D689F8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92CBAF9520EA1E9600D689F8 /* AppDelegate.swift */; };
 		92CBAF9820EA1E9600D689F8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92CBAF9720EA1E9600D689F8 /* ViewController.swift */; };
 		92CBAF9B20EA1E9600D689F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92CBAF9920EA1E9600D689F8 /* Main.storyboard */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9290D71620EA67A200996BFB /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 		92CBAF9220EA1E9600D689F8 /* FoodTrackerSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTrackerSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92CBAF9520EA1E9600D689F8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		92CBAF9720EA1E9600D689F8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 			children = (
 				92CBAF9520EA1E9600D689F8 /* AppDelegate.swift */,
 				92CBAF9720EA1E9600D689F8 /* ViewController.swift */,
+				9290D71620EA67A200996BFB /* Meal.swift */,
 				92CBAFB520EA524600D689F8 /* RatingControl.swift */,
 				92CBAF9920EA1E9600D689F8 /* Main.storyboard */,
 				92CBAF9C20EA1E9700D689F8 /* Assets.xcassets */,
@@ -200,6 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9290D71720EA67A200996BFB /* Meal.swift in Sources */,
 				92CBAF9820EA1E9600D689F8 /* ViewController.swift in Sources */,
 				92CBAFB620EA524600D689F8 /* RatingControl.swift in Sources */,
 				92CBAF9620EA1E9600D689F8 /* AppDelegate.swift in Sources */,
